@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    align-items:center;
+}
+#greet{
+    color: rgb(85, 164, 196);
+    text-align:center;
+
+}
+.input-box{
+    padding:10px;
+    align-items:center;
+    border:solid black;
+}
+.btn{
+    border: solid;
+    color:white;
+    background-color:rgb(85, 164, 196);
+    border-radius:25%;
+
+}
